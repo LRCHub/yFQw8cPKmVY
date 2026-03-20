@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Hai",
+  "base_artist": "Idios",
+  "createdAt": "2026-03-20T15:17:31.569270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bagalil, Betel-Hai",
+      "artist": "Ofra Haza",
+      "has_synced": false,
+      "path": "select/01_Bagalil,_Betel-Hai_Ofra_Haza.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aa Jagmagata Chand Hai",
+      "artist": "Asha Bhosle, R.D. Burman",
+      "has_synced": true,
+      "path": "select/02_Aa_Jagmagata_Chand_Hai_Asha_Bhosle,_R.D._Burman.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aaj Ki Raat Koi Aane Ko Hai",
+      "artist": "Asha Bhosle",
+      "has_synced": true,
+      "path": "select/03_Aaj_Ki_Raat_Koi_Aane_Ko_Hai_Asha_Bhosle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aanewala Pal Janewala Hai",
+      "artist": "Kishore Kumar",
+      "has_synced": true,
+      "path": "select/04_Aanewala_Pal_Janewala_Hai_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aanewala Pal Jane Wala Hai",
+      "artist": "Kishore Kumar",
+      "has_synced": true,
+      "path": "select/05_Aanewala_Pal_Jane_Wala_Hai_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aanewala Pal Janewala Hai",
+      "artist": "Kishore Kumar",
+      "has_synced": true,
+      "path": "select/06_Aanewala_Pal_Janewala_Hai_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ae dil hai mushkil",
+      "artist": "Arijit Singh",
+      "has_synced": true,
+      "path": "select/07_Ae_dil_hai_mushkil_Arijit_Singh.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ae Dil Hai Mushkil (Title Track)",
+      "artist": "Arijit Singh",
+      "has_synced": true,
+      "path": "select/08_Ae_Dil_Hai_Mushkil_(Title_Track)_Arijit_Singh.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aisa Zakhm Diya Hai",
+      "artist": "Udit Narayan, Amir Khan & Shankar Madhavan",
+      "has_synced": false,
+      "path": "select/09_Aisa_Zakhm_Diya_Hai_Udit_Narayan,_Amir_Khan_&_Shankar_Madhavan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aisa Zakhm Diya Hai",
+      "artist": "Udit Narayan, Aamir Khan & Shankar Mahadevan",
+      "has_synced": false,
+      "path": "select/10_Aisa_Zakhm_Diya_Hai_Udit_Narayan,_Aamir_Khan_&_Shankar_Mahadevan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Allah Duhai Hai",
+      "artist": "Atif Aslam, Michie One, Ritu Pathak, Anushka Manchanda & Vishal Dadlani",
+      "has_synced": true,
+      "path": "select/11_Allah_Duhai_Hai_Atif_Aslam,_Michie_One,_Ritu_Pathak,_Anushka_Manchanda_&_Vishal_Dadlani.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Allah Duhai Hai",
+      "artist": "Atif Aslam, Anushka Manchanda, Vishal Dadlani, Ritu Pathak & Michie One",
+      "has_synced": true,
+      "path": "select/12_Allah_Duhai_Hai_Atif_Aslam,_Anushka_Manchanda,_Vishal_Dadlani,_Ritu_Pathak_&_Michie_One.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Are Re Are (From \"Dil To Pagal Hai\")",
+      "artist": "Lata Mangeshkar feat. Udit Narayan",
+      "has_synced": true,
+      "path": "select/13_Are_Re_Are_(From__Dil_To_Pagal_Hai_)_Lata_Mangeshkar_feat._Udit_Narayan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baarish Aayi Hai",
+      "artist": "Javed-Mohsin feat. Stebin Ben & Shreya Ghoshal",
+      "has_synced": true,
+      "path": "select/14_Baarish_Aayi_Hai_Javed-Mohsin_feat._Stebin_Ben_&_Shreya_Ghoshal.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baarish Aayi Hai",
+      "artist": "Stebin Ben & Shreya Ghoshal",
+      "has_synced": true,
+      "path": "select/15_Baarish_Aayi_Hai_Stebin_Ben_&_Shreya_Ghoshal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baghon Mein Bahar Hai",
+      "artist": "Mohammed Rafi feat. Lata Mangeshkar",
+      "has_synced": true,
+      "path": "select/16_Baghon_Mein_Bahar_Hai_Mohammed_Rafi_feat._Lata_Mangeshkar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baghon Mein Bahar Hai",
+      "artist": "Mohammed Rafi & Lata Mangeshkar",
+      "has_synced": true,
+      "path": "select/17_Baghon_Mein_Bahar_Hai_Mohammed_Rafi_&_Lata_Mangeshkar.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bahut Pyar Karte Hai (From \"Saajan\") - Female Vocals",
+      "artist": "Anuradha Paudwal",
+      "has_synced": true,
+      "path": "select/18_Bahut_Pyar_Karte_Hai_(From__Saajan_)_-_Female_Vocals_Anuradha_Paudwal.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bahut Pyar Karte Hai (Female Version)",
+      "artist": "Anuradha Paudwal",
+      "has_synced": true,
+      "path": "select/19_Bahut_Pyar_Karte_Hai_(Female_Version)_Anuradha_Paudwal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hai",
+      "artist": "Idios",
+      "has_synced": false,
+      "path": "select/pl_01_Hai_Idios.txt"
+    }
+  ]
+}
